@@ -10,3 +10,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition; IEEE: Piscataway
 Code
 
 Yang, F.; Yang, H. TTSR, (2020), Github repository, https://github.com/researchmm/TTSR
+
+Test model
+
+https://drive.google.com/drive/folders/1IwWNDqcMlRnFNLt6Blxzs-O8i8LHvafT
