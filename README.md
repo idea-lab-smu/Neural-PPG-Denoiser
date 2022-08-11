@@ -5,7 +5,7 @@
 Paper
 
 Yang, F.; Yang, H.; Fu, J.; Lu, H.; Guo, B. Learning Texture Transformer Network for Image Super-resolution. In Proceedings of the
-IEEE/CVF Conference on Computer Vision and Pattern Recognition; IEEE: Piscataway, NJ, USA, 2020; pp. 5791–5800.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition; IEEE: Piscataway, NJ, USA, 2020; pp. 5791–5800. [CrossRef](https://doi.org/10.48550/arXiv.2006.04139)
 
 Code
 
