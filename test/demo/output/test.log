@@ -1,0 +1,9 @@
+[2022-08-11 10:48:38,552] - [trainer.py file line:62] - INFO: load_model_path: ./model_Motion.pt
+[2022-08-11 10:48:38,804] - [trainer.py file line:194] - INFO: Test process...
+[2022-08-11 10:48:38,805] - [trainer.py file line:198] - INFO: lr path:     ./test/demo/lr/0.csv
+[2022-08-11 10:48:38,805] - [trainer.py file line:199] - INFO: ref path:    ./test/demo/ref/0.csv
+[2022-08-11 10:48:41,039] - [trainer.py file line:279] - INFO: output path: ./test/demo/output/save_results/SR_0_Clean.csv
+[2022-08-11 10:48:41,040] - [trainer.py file line:198] - INFO: lr path:     ./test/demo/lr/1.csv
+[2022-08-11 10:48:41,041] - [trainer.py file line:199] - INFO: ref path:    ./test/demo/ref/1.csv
+[2022-08-11 10:48:41,108] - [trainer.py file line:279] - INFO: output path: ./test/demo/output/save_results/SR_1_Clean.csv
+[2022-08-11 10:48:41,108] - [trainer.py file line:281] - INFO: Test over.
