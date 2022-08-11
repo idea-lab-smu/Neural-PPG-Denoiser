@@ -193,7 +193,7 @@ class Trainer():
     def test(self):
         self.logger.info('Test process...')
         sampling = 6*50
-        list_ = range(0,141)#[0, 1, 12, 16, 18]
+        list_ = range(0,2)#[0, 1, 12, 16, 18]
         for i in list_:
             self.logger.info('lr path:     %s' %(self.args.lr_path + str(i) + '.csv'))
             self.logger.info('ref path:    %s' %(self.args.ref_path + str(i) + '.csv'))
