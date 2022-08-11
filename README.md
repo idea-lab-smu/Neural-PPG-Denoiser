@@ -1,6 +1,6 @@
 # Neural-PPG-Denoiser
 
-TTSR
+### TTSR
 
 Paper
 
@@ -11,11 +11,11 @@ Code
 
 Yang, F.; Yang, H. TTSR, (2020), Github repository, https://github.com/researchmm/TTSR
 
-Test model
+### Test model
 
 https://drive.google.com/drive/folders/1IwWNDqcMlRnFNLt6Blxzs-O8i8LHvafT
 
-Data
+### Data
 
 Siam, A.; Abd El-Samie, F.; Abu Elazm, A.; El-Bahnasawy, N.; Elbanby, G. Real-World PPG Dataset, Version 1; Mendeley Data;
 Mendeley: London, UK, 2019.
