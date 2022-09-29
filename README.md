@@ -24,12 +24,37 @@ Delaram Jarchi and Alexander J. Casson. Description of a Database Containing Wri
 Reiss, A.; Indlekofer, I.; Schmidt, P.; Van Laerhoven, K. Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural
 Networks. Sensors 2019, 19, 3079. [CrossRef](https://doi.org/10.3390/s19143079)
 
+## Original Neural PPG Denoiser (NPD)
+
+Kwon, J.H.; Kim, S.E.; Kim, N.H.; Lee, E.C.; Lee, J.H. Preeminently Robust Neural PPG Denoiser. Sensors 2022, 22, 2082. https://doi.org/10.3390/s22062082
+
+Github
+https://github.com/juhuk98/Neural-PPG-Denoiser.git
+
 ## Quick test
 1. Clone this github repo
-2. 
-3. Download pre-trained models and modify "model_path" in test.sh
+
+2. Download models from [GoogleDrive](https://drive.google.com/drive/folders/1IwWNDqcMlRnFNLt6Blxzs-O8i8LHvafT).
+
+3. Add to the following path `./model`
+
 4. Run test
 ```
 sh test.sh
 ```
-4. The results are in "save_dir" (default: `./test/demo/output`)
+5. The results are in (default: `./test/demo/output`)
+
+## Evaluation
+1. run evalutation
+```
+sh eval.sh
+```
+
+## Train
+1.run train
+```
+sh train.sh
+```
+2. The results are in (default: ‘./train/CUFED/TTSR/model/’ )
+
+
