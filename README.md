@@ -42,7 +42,7 @@ https://github.com/juhuk98/Neural-PPG-Denoiser.git
 ```
 sh test.sh
 ```
-5. The results are in (default: `./test/demo/output`)
+5. The results are in (`./test/demo/output`)
 
 ## Evaluation
 1. run evalutation
@@ -51,12 +51,12 @@ sh eval.sh
 ```
 
 ## Train
-1.run train
+1. run train
 
 ```
 sh train.sh
 ```
 
-2. The results are in (default: ‘./train/CUFED/TTSR/model/’ )
+2. The results are in (‘./train/CUFED/TTSR/model/’ )
 
 
