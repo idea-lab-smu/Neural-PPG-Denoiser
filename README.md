@@ -52,9 +52,11 @@ sh eval.sh
 
 ## Train
 1.run train
+
 ```
 sh train.sh
 ```
+
 2. The results are in (default: ‘./train/CUFED/TTSR/model/’ )
 
 
