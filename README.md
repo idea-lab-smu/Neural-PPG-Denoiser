@@ -11,10 +11,6 @@ Code
 
 Yang, F.; Yang, H. TTSR, (2020), Github repository, https://github.com/researchmm/TTSR
 
-### Test model
-
-[GoogleDrive](https://drive.google.com/drive/folders/1IwWNDqcMlRnFNLt6Blxzs-O8i8LHvafT)
-
 ### Dataset
 
 Siam, A.; Abd El-Samie, F.; Abu Elazm, A.; El-Bahnasawy, N.; Elbanby, G. Real-World PPG Dataset, Version 1; Mendeley Data;
@@ -27,3 +23,13 @@ Delaram Jarchi and Alexander J. Casson. Description of a Database Containing Wri
 
 Reiss, A.; Indlekofer, I.; Schmidt, P.; Van Laerhoven, K. Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural
 Networks. Sensors 2019, 19, 3079. [CrossRef](https://doi.org/10.3390/s19143079)
+
+## Quick test
+1. Clone this github repo
+2. 
+3. Download pre-trained models and modify "model_path" in test.sh
+4. Run test
+```
+sh test.sh
+```
+4. The results are in "save_dir" (default: `./test/demo/output`)
