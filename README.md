@@ -1,4 +1,4 @@
-# Neural PPG Denoiser (NPD)
+# Neural PPG Denoiser (NPD) replication
 
 ### TTSR
 
